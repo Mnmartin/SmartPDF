@@ -15,8 +15,9 @@ This repository contains code for splitting, combining, and decrypting PDF files
 1. Clone the repository:
    ```shell
    git clone https://github.com/Mnmartin/SmartPDF.git
-   navigate to the project root Directory
-   python -m venv /.env
+   navigate to the project root Directory using CMD
+   python -m venv ./env
+   env\Scripts\activate
    pip install -r requirement.txt
    
 ## Usage
