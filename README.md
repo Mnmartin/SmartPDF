@@ -15,6 +15,10 @@ This repository contains code for splitting, combining, and decrypting PDF files
 1. Clone the repository:
    ```shell
    git clone https://github.com/Mnmartin/SmartPDF.git
+   navigate to the project root Directory
+   python -m venv /.env
+   pip install -r requirement.txt
+   
 ## Usage
 1.Splitting PDFs:
   Use the split_pdf.py script to split a PDF file into multiple smaller PDFs based on the desired page ranges or chapter divisions.
