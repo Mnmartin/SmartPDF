@@ -14,9 +14,11 @@ This repository contains code for splitting, combining, and decrypting PDF files
 ## Installation
 1. Clone the repository:
    ```shell
-   pip install -r requirement.txt
-   env\Scripts\activate
+   Navigate to the clone file
    python -m venv ./env
+   env\Scripts\activate
+   pip install -r requirement.txt
+   
    
 ## Usage
 1.Splitting PDFs:
